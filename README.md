@@ -1,3 +1,1 @@
-# vue-counter
-# vue-counter
-# vue-counter
+simple app for Exercises 12.20.-12.22 in fullstackopen course
